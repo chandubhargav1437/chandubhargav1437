@@ -17,7 +17,8 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 
 ## 🚀 Featured Projects
 
-### 🏥 [MedFlow AI — Autonomous Multi-Agent Clinical Workflow] (https://github.com/chandubhargav1437/Medflow-AI)
+### 🏥 MedFlow AI — Autonomous Multi-Agent Clinical Workflow 
+[link](https://github.com/chandubhargav1437/Medflow-AI)
 > Orchestrated 5 independent AI agents using MCP & custom A2A message buses.  
 > LLM-driven task DAGs, multimodal data extraction (PDF/Excel), SQLite registries & exponential backoff.
 
