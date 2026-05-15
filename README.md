@@ -27,9 +27,10 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 > OpenAI Whisper (Hindi→English), bge-m3 embeddings, Cosine Similarity, Llama 3.2.
 > [Link](https://github.com/chandubhargav1437/Local_Rag_Based_QA_Assistant)
 
-### 🔬 Agentic Multimodal Defect Diagnostic Engine
-> YOLOv8 + bge-m3 + FAISS semantic search for semiconductor wafer defects.  
-> QLoRA fine-tuned local LLM + LangGraph diagnostic workflow.
+### ⚡ AI-Powered Smart Grid Anomaly Detection System
+> Detect grid faults → trigger corrective actions (94%+ accuracy via Isolation Forest + XGBoost).
+> IEC 61850 sensor data, confidence-aware response engine, Streamlit live dashboard, MLflow & Docker.
+> [Link]()
 
 ###   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  CPP CODING FILES
 > I have uploaded all the cpp files that i have practised here.
