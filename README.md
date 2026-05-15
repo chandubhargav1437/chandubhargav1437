@@ -64,7 +64,7 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 
 ## 📜 Certifications
 
-[Python](link) · [NLP — NPTEL](link) · [SQL](link) · [ML Workshop](link) · [Data Science](link) · [Web Dev](link)
+[Python](https://www.linkedin.com/in/chandu-bhargav-a21972250/details/certifications/1635550324307/single-media-viewer/?profileId=ACoAAD4UNjkBAQz5tCwOagEwSQ9lLC9WePngp3Y) · [NLP — NPTEL](link) · [SQL](link) · [ML Workshop](link) · [Data Science](link) · [Web Dev](link)
 
 ---
 
