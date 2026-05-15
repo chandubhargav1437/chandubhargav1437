@@ -30,7 +30,7 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 ### ⚡ AI-Powered Smart Grid Anomaly Detection System
 > Detect grid faults → trigger corrective actions (94%+ accuracy via Isolation Forest + XGBoost).
 > IEC 61850 sensor data, confidence-aware response engine, Streamlit live dashboard, MLflow & Docker.
-> [Link]()
+> [Link](https://github.com/chandubhargav1437/AI_SMART_GRID_ANOMALY_DETECTION)
 
 ###   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  CPP CODING FILES
 > I have uploaded all the cpp files that i have practised here.
