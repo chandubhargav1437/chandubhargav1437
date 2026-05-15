@@ -30,6 +30,9 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 > YOLOv8 + bge-m3 + FAISS semantic search for semiconductor wafer defects.  
 > QLoRA fine-tuned local LLM + LangGraph diagnostic workflow.
 
+###  CPP CODING FILES
+[link](https://github.com/chandubhargav1437/cpp-programming)
+> I have uploaded all the cpp files that i have practised here.
 ---
 
 ## 🛠️ Tech Stack
