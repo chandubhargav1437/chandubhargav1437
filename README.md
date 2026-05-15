@@ -63,7 +63,7 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 ## 🏆 Achievements
 
 - ✅ GATE Qualified (CS & IT + DA)
-- 💻 400+ problems solved — LeetCode & GFG
+- 💻 500+ problems solved — LeetCode & GFG
 - 🥇 Algorithm Universe Coding Contest Winner
 
 ---
