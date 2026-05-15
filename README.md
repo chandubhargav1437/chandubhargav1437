@@ -17,23 +17,23 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 
 ## 🚀 Featured Projects
 
-### 🏥 MedFlow AI — Autonomous Multi-Agent Clinical Workflow 
-[link](https://github.com/chandubhargav1437/Medflow-AI)
+### 🏥 MedFlow AI — Autonomous Multi-Agent Clinical Workflow
 > Orchestrated 5 independent AI agents using MCP & custom A2A message buses.  
 > LLM-driven task DAGs, multimodal data extraction (PDF/Excel), SQLite registries & exponential backoff.
+> [link](https://github.com/chandubhargav1437/Medflow-AI)
 
 ### 🎬 Local RAG-Based Video QA Assistant
-[Link](https://github.com/chandubhargav1437/Local_Rag_Based_QA_Assistant)
 > Ask questions → get precise video timestamps + AI summaries.  
 > OpenAI Whisper (Hindi→English), bge-m3 embeddings, Cosine Similarity, Llama 3.2.
+> [Link](https://github.com/chandubhargav1437/Local_Rag_Based_QA_Assistant)
 
 ### 🔬 Agentic Multimodal Defect Diagnostic Engine
 > YOLOv8 + bge-m3 + FAISS semantic search for semiconductor wafer defects.  
 > QLoRA fine-tuned local LLM + LangGraph diagnostic workflow.
 
 ###   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  CPP CODING FILES
-[link](https://github.com/chandubhargav1437/cpp-programming)
 > I have uploaded all the cpp files that i have practised here.
+> [link](https://github.com/chandubhargav1437/cpp-programming)
 ---
 
 ## 🛠️ Tech Stack
