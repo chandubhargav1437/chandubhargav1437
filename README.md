@@ -23,6 +23,7 @@ Building autonomous AI systems, RAG pipelines, and multimodal agents.
 > LLM-driven task DAGs, multimodal data extraction (PDF/Excel), SQLite registries & exponential backoff.
 
 ### 🎬 Local RAG-Based Video QA Assistant
+[Link](https://github.com/chandubhargav1437/Local_Rag_Based_QA_Assistant)
 > Ask questions → get precise video timestamps + AI summaries.  
 > OpenAI Whisper (Hindi→English), bge-m3 embeddings, Cosine Similarity, Llama 3.2.
 
